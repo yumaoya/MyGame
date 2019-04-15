@@ -1,21 +1,21 @@
-©•ª‚Ì’S“–ƒ•Š
+è‡ªåˆ†ã®æ‹…å½“ãƒµæ‰€
 
 Scene
-Title
-MainGame
-MainGame2
-MainGame3
+Title,
+MainGame,
+MainGame2,
+MainGame3,
 
 script
 
 
-script\BounusGame ‚Ì’†g‚·‚×‚Ä
-script\MainGame@‚ÌEnemyActionˆÈŠO‚·‚×‚Ä
+script\BounusGame ã®ä¸­èº«ã™ã¹ã¦
+script\MainGameã€€ã®EnemyActionä»¥å¤–ã™ã¹ã¦
 script\SceneChangeManager
 
 
 unity var 2018.1.3f1
-ƒƒ“ƒo[\¬
-ƒGƒ“ƒWƒjƒA@2l
-ƒfƒUƒCƒi[@2l
-ƒvƒ‰ƒ“ƒi[@1l
+ãƒ¡ãƒ³ãƒãƒ¼æ§‹æˆ
+ã‚¨ãƒ³ã‚¸ãƒ‹ã‚¢ã€€2äºº
+ãƒ‡ã‚¶ã‚¤ãƒŠãƒ¼ã€€2äºº
+ãƒ—ãƒ©ãƒ³ãƒŠãƒ¼ã€€1äºº
