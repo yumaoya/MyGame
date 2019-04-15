@@ -9,8 +9,8 @@ MainGame3,
 script
 
 
-script\BounusGame の中身すべて
-script\MainGame　のEnemyAction以外すべて
+script\BounusGameの中身すべて  
+script\MainGameのEnemyAction以外すべて,
 script\SceneChangeManager
 
 
@@ -19,3 +19,5 @@ unity var 2018.1.3f1
 エンジニア　2人
 デザイナー　2人
 プランナー　1人
+
+
